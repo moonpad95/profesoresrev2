@@ -1,0 +1,5 @@
+DELETE http://localhost:5000/album/eliminar/9
+
+{
+    "name": "santa-claus.png"
+}
